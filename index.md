@@ -16,10 +16,13 @@ Gardening is one of the oldest hobbies in the world, and it's always been a very
 
 ## Planter
 
+<div>
 <img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
 <img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
 <img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
 <img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star_half.svg" height="24px" style="display:inline; margin:0px;">
+</div>
 
 ![](images/planter_preview.gif "Planning a garden in Planter.")
 
