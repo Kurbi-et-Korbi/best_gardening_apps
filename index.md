@@ -36,7 +36,13 @@ The app also contains a gardening schedule for planting or transplanting times. 
 
 ## LeafSnap
 
-{{< rating 4.5 >}}
+<div>
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star_half.svg" height="24px" style="display:inline; margin:0px;">
+</div>
 
 ![](images/LeafSnap.webp "The LeafSnap app.")
 
@@ -48,7 +54,13 @@ The app also has indoor houseplant care information, so once you know what you'v
 
 ## PictureThis
 
-{{< rating 4.7 >}}
+<div>
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star_half.svg" height="24px" style="display:inline; margin:0px;">
+</div>
 
 ![](images/PictureThis.webp "Identifying a rose in the PictureThis app.")
 
@@ -58,7 +70,13 @@ Another plant identification app that uses AI to recognize and identify plants, 
 
 ## Planta
 
-{{< rating 4.4 >}}
+<div>
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star_half.svg" height="24px" style="display:inline; margin:0px;">
+</div>
 
 ![](images/planta.webp "The Planta app.")
 
@@ -68,7 +86,13 @@ An indoor plant care app that provides customized care instructions, watering re
 
 ## Moon and Garden
 
-{{< rating 4.6 >}}
+<div>
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star_half.svg" height="24px" style="display:inline; margin:0px;">
+</div>
 
 ![](images/moongarden.webp "The moon calendar feature in the Moon and Garden app.")
 
@@ -78,7 +102,13 @@ Taking a different approach, this gardening app offers gardening advice accordin
 
 ## Plantix
 
-{{< rating 4.3 >}}
+<div>
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star.svg" height="24px" style="display:inline; margin:0px;">
+<img alt="star" src="/images/icons/star_half.svg" height="24px" style="display:inline; margin:0px;">
+</div>
 
 ![](images/plantix.webp "Identifying a pest in the Plantix app.")
 
