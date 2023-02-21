@@ -112,7 +112,7 @@ Taking a different approach, this gardening app offers gardening advice accordin
 
 ![](images/plantix.webp "Identifying a pest in the Plantix app.")
 
-A plant disease identification app that uses machine learning and image recognition to identify and diagnose plant health problems. The app has a database of over 90 plant diseases and pests and can diagnose a problem by analyzing a photo of the affected plant. The app also provides treatment recommendations and prevention tips to help you maintain healthy plants. Plantix focuses on the most common food crops and farmers, so it doesn't contain every veggie a home gardener might grow, but it's great for common veggies.
+A plant disease identification app that uses machine learning and image recognition to identify and diagnose plant health problems. The app has a database of over 600 plant diseases and pests and can diagnose a problem by analyzing a photo of the affected plant. The app also provides treatment recommendations and prevention tips to help you maintain healthy plants. Plantix focuses on the 30 most common food crops and farmers, so it doesn't contain every veggie a home gardener might grow, but it's great for common veggies. Plantix contains a rich community feature where experts and peers can excahnge ideas. The app is free of cost and ads. 
 
 *Plantix is available on [Android](https://play.google.com/store/apps/details?id=com.peat.GartenBank&hl=en_US&gl=US).*
 
